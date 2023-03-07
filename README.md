@@ -1,1 +1,1 @@
-# Logistic-Regression-Project
+# MachineLearning-Project
